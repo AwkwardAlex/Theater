@@ -6,6 +6,6 @@ This application is basic theater play simulation created with the use of thread
 
 To start-up this application type the following commands into the terminal:
 
-- ```git clone https://github.com/AwkwardAlex/Theater.git```
-- ```cd theater```
+- ```git clone -b dev https://github.com/AwkwardAlex/Theater.git```
+- ```cd Theater```
 - ```java -cp theater-1.0-jar-with-dependencies.jar Main```
