@@ -6,6 +6,7 @@
 
     <groupId>io.mazur</groupId>
     <artifactId>theater</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <dependencies>
